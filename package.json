@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "fmt": "prettier --write index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.12.11"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}
